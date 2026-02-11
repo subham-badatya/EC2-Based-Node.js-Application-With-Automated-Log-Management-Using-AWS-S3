@@ -1,0 +1,14 @@
+{
+  "name": "node-log-upload-s3",
+  "version": "1.0.0",
+  "description": "Node.js app that logs requests and uploads logs to S3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Subham",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
